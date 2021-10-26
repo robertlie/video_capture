@@ -6,7 +6,7 @@
 __pycache__/
 *.pyc
 
-**/output_images/*.bmp
+#**/output_images/*.bmp
 
-bmp.bin
-logo.bin
+#bmp.bin
+#logo.bin
