@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (c) 2021 Mobilefish.com
+# Author: Robert Lie (mobilefish.com)
 
 import cv2
 import settings

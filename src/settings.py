@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (c) 2021 Mobilefish.com
+# Author: Robert Lie (mobilefish.com)
 
 # Enter your video filename in folder input_video
 video_filename = 'toy_1280x740_48mb.mov'
